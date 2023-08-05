@@ -1,0 +1,27 @@
+.main-conrtainer {
+  background-color: antiquewhite;
+}
+
+div {
+  background: #dfe2c5;
+  color: rgb(227, 154, 154);
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+h1 h2 {
+  font-family: sans-serif;
+  justify-content: center;
+  align-items: center;
+}
+
+section {
+  border: 2px solid rgb(227, 203, 203);
+  border-radius: 30px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.skills li:hover {
+  color: rgb(216, 33, 42);
+}
